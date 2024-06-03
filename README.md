@@ -15,6 +15,8 @@ This is a classic Solitaire game built with modern web technologies. The game le
 
 Try out the live demo [here](https://solitaire-tris.vercel.app/).
 
+![solitaire game screenshot](/image.png)
+
 ## Features
 
 - **Interactive Drag-and-Drop Interface:** Easily drag and drop puzzle pieces to their correct positions.
