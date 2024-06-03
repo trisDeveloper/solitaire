@@ -12,23 +12,10 @@ function App({ Component, pageProps }: AppProps) {
     <React.Fragment>
       <Head>
         <title key='title'>Solitaire</title>
-        <meta name="description" content="$description" />
         <meta
           key='og:title'
           property="og:title" 
           content="Solitaire" />
-        <meta
-          key='og:description'
-          property="og:description"
-          content="$description" />
-        <meta
-          key='og:image'
-          property="og:image"
-          content="/sms-banner.png" />
-        <meta
-          key='og:url'
-          property="og:url"
-          content="https://www.drunkmode.app/puzzles/$appId" />
         <meta
           key='og:site_name'
           property="og:site_name"
