@@ -11,7 +11,7 @@ This is a classic Solitaire game built with modern web technologies. The game le
 ## Demo
 
 > [!NOTE]  
-> This Solitaire Klondike game is part of the [Drunk Mode iOS]([https://github.com/NoodleOfDeath/drunkmode-puzzles/](https://apps.apple.com/us/app/drunk-mode-locker/id6478125185) app on Apple Store, where users solve puzzles to unlock restricted apps and prove their sobriety. If you're a developer, you can also create games for the app by visiting the [Drunk mode repo](https://github.com/NoodleOfDeath/drunkmode-puzzles/) on GitHub.
+> This Solitaire Klondike game is part of the [Drunk Mode iOS](https://apps.apple.com/us/app/drunk-mode-locker/id6478125185) app on Apple Store, where users solve puzzles to unlock restricted apps and prove their sobriety. If you're a developer, you can also create games for the app by visiting the [Drunk mode repo](https://github.com/NoodleOfDeath/drunkmode-puzzles/) on GitHub.
 Try out the live demo [here](https://solitaire-tris.vercel.app/).
 
 ![solitaire game screenshot](/image.png)
